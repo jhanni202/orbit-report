@@ -11,7 +11,7 @@ export class OrbitCountsComponent implements OnInit {
   constructor() { 
   }
 
-  ngOnInit() {
+  ngOnInit() :void {
   };
 
   count(input: string): number {
