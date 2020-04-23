@@ -23,5 +23,6 @@ export class Satellite {
             return false;    
         };
     };
+
     
 };
